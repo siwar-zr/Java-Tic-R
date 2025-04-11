@@ -4,12 +4,12 @@ public class Livre {
 
     private String titre;
     private String auteur;
-    private boolean disponibilite;
+    private boolean disponible;
 
     public Livre(String titre, String auteur, boolean disponibilite) {
         this.titre = titre;
         this.auteur = auteur;
-        this.disponibilite = disponibilite;
+        this.disponible = disponibilite;
     }
 
     public String getTitre() {
@@ -28,17 +28,17 @@ public class Livre {
         this.auteur = auteur;
     }
 
-    public boolean isDisponibilite() {
-        return disponibilite;
+    public boolean isDisponible() {
+        return disponible;
     }
 
-    public void setDisponibilite(boolean disponibilite) {
-        this.disponibilite = disponibilite;
+    public void setDisponible(boolean disponibilite) {
+        this.disponible = disponibilite;
     }
 
     public void emprunter(){
-        if (disponibilite){
-            disponibilite = false;
+        if (disponible){
+            disponible = false;
             System.out.println("Emprunt du livre "+ titre + " est effectue avec succes !");
         }else{
             System.out.println("Livre "+ titre + " est deja emprunte !");
@@ -46,8 +46,8 @@ public class Livre {
     }
 
     public void retourner(){
-        if (!disponibilite){
-            disponibilite = true;
+        if (!disponible){
+            disponible = true;
             System.out.println("Livre "+ titre + " est retourne avec succes !");
         }else{
             System.out.println("Livre "+ titre + " est deja retourne !");
@@ -56,6 +56,6 @@ public class Livre {
 
     public void showDetails(){
 
-        System.out.println(titre + " : "+ auteur + " : "+disponibilite);
+        System.out.println(titre + " : "+ auteur + " : "+disponible);
     }
 }
