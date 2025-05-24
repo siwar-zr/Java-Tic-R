@@ -1,0 +1,25 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ö±¶ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÅüáÊ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®¹Ìä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïëøİùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õş˜ãúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚëŒ…úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äê†
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ªÃ¬ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÆ¯¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÉ‘¨
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÛØê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ²°Ïÿÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(•Åˆâûÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(êÑÙÊüÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÿŠÒüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(«Ëúÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÏÑÍĞúÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¸æëüÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(©ˆ­Ø
+S	java:S106="9Replace this use of System.out or System.err by a logger.(–‹¼èùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¬–“‡ûÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(×ÀÛí
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(’ƒ§Ìùÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(©üËîıÿÿÿÿ
